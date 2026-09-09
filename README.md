@@ -1,0 +1,1 @@
+بصّ وراها — نسخة مجانية بدون Backend أو API مدفوع. قبل النشر: ضع الدومين الحقيقي في canonical وsitemap، وأضف بريد التواصل الحقيقي، ثم جهّز Search Console وAdSense وفق سياسات Google.
